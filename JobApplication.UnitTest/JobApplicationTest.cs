@@ -16,7 +16,7 @@ public class JobApplicationTest
         {
             Applicant = new()
             {
-                Age = 18
+                Age = 16
             }
         };
         // Act
